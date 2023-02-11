@@ -1,3 +1,5 @@
 <script type="javascript">
-  alert("Welcome");
+  function alertFunction() {
+    alert("Hello! I am an alert box!");
+  }
 </script>
