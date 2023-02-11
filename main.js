@@ -1,4 +1,3 @@
-
-  function alertFunction() {
-    alert("Hello! I am an alert box!");
-  }
+function alertFunction() {
+   alert("Hi world! I am an alert box!");
+}
