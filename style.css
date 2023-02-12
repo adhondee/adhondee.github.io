@@ -3,6 +3,16 @@
   height:100px;
 }
 
+#imgDarthVader {
+   width:200px;
+  height:250px;
+}
+
+#imgDarthVader2 {
+   width:200px;
+  height:250px;
+}
+
 #pAlignCenter{
   display: block;
   margin-left: auto;
